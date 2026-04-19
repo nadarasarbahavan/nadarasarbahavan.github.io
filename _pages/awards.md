@@ -60,6 +60,14 @@ Silver Medal for M4+ event
 <h3 style="margin-top: 40px;"> Public Speaking - Enliven 2019 - Speech Evaluation Contest – Senior Category  </h3>
 Champion
 
+<h3 style="margin-top: 40px;"> Awards won at High School - S.Thomas College, Mt. Lavinia, Sri Lanka </h3>
+The Hinton De Alwis Seneviratne Memorial Trophy for an Academic Achievement during the Year(2016).
+The S.E Satarasinghe Memorial Prize for the 1st Best Performance at the GCE (AL) Examination.
+The Warden E.F Miller Memorial Prize for Mathematics.
+The J.L.D Peiris Memorial Prize for the Best Student in College Forms( Arts & Science) .
+Indrakumar Kulasingam Memorial Shield for the Best Advanced Level Results in the Maths stream.
+Warden Neville de Alwis Memorial Prize for the Best Results at the GCE Ordinary Level Examination of 2012
+
 
 
 <!-- <h3 style="margin-top: 40px;"> <a href="[https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2020]">
