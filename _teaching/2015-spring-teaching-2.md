@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Artificial Intelligence for Engineers (MCEN90048)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-2
+venue: "University of Melbourne, Department of Mechanical Engineering"
+location: "Melbourne, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Marker, Tutor for 2024-SM1,
+Marked Assignments and supervised projects. 
 
-Heading 1
-======
+Upon completion, students are expected to gain an overview of a major area of artificial intelligence known as deep learning, including Convolutional and Recurrent Neural Networks, Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs). Students will also learn computational intelligence methods of optimization and modelling.  An ongoing focus will be the applicability of these methods to engineering systems. Students are expected to practice some of the methods they learn on real and synthetic data and appreciate the strengths and limits of the approaches they learn.
 
-Heading 2
-======
-
-Heading 3
-======
+A variety of topics in computational intelligence are expected to be covered, with selections to be made from 1) neural networks including generative networks, deep neural networks and convolution neural networks, 2) learning methods including unsupervised learning, reinforcement learning and semi-supervised learning, 3) appreciation of other Computational Intelligence methods: fuzzy systems and evolutionary algorithms and 4) an introduction to stochastic dynamic programming and its relationship to AI. Mechatronic applications in broader terms and case studies from other relevant areas of engineering will be discussed.
