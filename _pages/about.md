@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Research Associate** at the **University of Melbourne**. My research sits at the intersection of robust machine learning and computer vision, specifically focusing on how we can make AI systems more reliable.
+I am a **PhD Candidate** at the **University of Melbourne**. My research sits at the intersection of robust machine learning and computer vision, specifically focusing on how we can make AI systems more reliable.
 
 ### 🔬 Research Interests
 * **Trustworthy AI:** Open-set recognition, deepfake detection, and model robustness.
@@ -16,8 +16,9 @@ I am a **Research Associate** at the **University of Melbourne**. My research si
 * **Video Understanding:** Analyzing temporal dynamics and semantic content in video streams.
 
 ### 🎓 Education & Background
-* **PhD in Computer Science/AI**, University of Melbourne. 
+* **PhD in Computer Science/AI**, University of Melbourne, Australia. 
     * Advised by [Prof. Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge).
+* **BsC (Hon) in Biomedical Engineering**, University of Moratuwa, Sri Lanka. 
 * **Leisure:** When I'm not in the lab, you’ll find me weightlifting 🏋️, reading 📚, or catching a movie 🎬.
 
 ---
