@@ -26,8 +26,8 @@ I am a **PhD Candidate** at the **University of Melbourne**. My research sits at
 ## 📝 Selected Publications
 
 ### 2026
-* **Sphor: A Representation Learning Perspective on Open-Set Recognition for Identifying Unknown Classes in Deep Learning Models** *CVPR Findings 2026* [[Paper]](https://arxiv.org/abs/2503.08049)
-* **Beyond Deepfake vs Real: Facial Deepfake Detection in the Open-Set Paradigm** *CVPR Workshops 2026* [[Paper]](https://arxiv.org/abs/2503.08055)
+* **Sphor: A Representation Learning Perspective on Open-Set Recognition for Identifying Unknown Classes in Deep Learning Models** *CVPR Findings 2026* [[Paper]](https://openaccess.thecvf.com/content/CVPR2026W/PPMisDet/html/Bahavan_Beyond_Deepfake_vs_Real_Facial_Deepfake_Detection_in_the_Open-Set_CVPRW_2026_paper.html)
+* **Beyond Deepfake vs Real: Facial Deepfake Detection in the Open-Set Paradigm** *CVPR Workshops 2026* [[Paper]](https://openaccess.thecvf.com/content/CVPR2026W/PPMisDet/html/Bahavan_Beyond_Deepfake_vs_Real_Facial_Deepfake_Detection_in_the_Open-Set_CVPRW_2026_paper.html)
 
 ### 2023
 * **Towards an Objective Measurement of Presence, Place Illusion, and Plausibility Illusion in Virtual Reality using Electroencephalography** *Virtual Reality Journal* [[Paper]](https://link.springer.com/article/10.1007/s10055-023-00815-x)
