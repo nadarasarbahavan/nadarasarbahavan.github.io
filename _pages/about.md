@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Research Associate at the University of Melbourne specializing in Trustworthy AI, GNNs, and Video Understanding."
+excerpt: "Graduate Researcher at the University of Melbourne specializing in Trustworthy AI"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a **PhD Candidate** at the **University of Melbourne**. My research sits at the intersection of robust machine learning and computer vision, specifically focusing on how we can make AI systems more reliable.
+I am a **PhD Candidate/Graduate Researcher** at the **University of Melbourne**. My research sits at the intersection of robust machine learning and computer vision, specifically focusing on how we can make AI systems more reliable.
 
 ### 🔬 Research Interests
 * **Trustworthy AI:** Open-set recognition, deepfake detection, and model robustness.
