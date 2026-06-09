@@ -27,8 +27,9 @@ Slater's framework defines two controllable system factors: **Immersion** (produ
 
 A **2×2 factorial within-subjects** design crossed high/low Immersion with high/low Coherence, producing four VR scenarios experienced by each participant in randomised order, with simultaneous EEG and ECG recording.
 
-<!-- IMAGE: 2×2 experiment design tree diagram (Figure 2.1) → /images/experiment_design.png -->
-![experiment_design](/images/experiment_design.png)
+<!-- IMAGE: 2×2 experiment design tree diagram (Figure 2.1) → /images/experiment_design.png 
+![experiment_design](/images/experiment_design.png)-->
+<img src="/images/experiment_design.png" width="50%">
 **20 subjects** · Ethics approval: ERN/2020/002 · Scenarios built in Unity on Oculus Go with teleportation locomotion (to minimise simulator sickness).
 
 ### Immersion sub-factors controlled
@@ -49,8 +50,9 @@ Questionnaires were administered **inside VR** after each scenario (Unity UI + X
 
 A **pilot study** (n=6) identified weaknesses in the coherence manipulation — VR characters were ignored, audio was too quiet, voices were robotic — and informed scene redesign before the main experiment.
 
-<!-- IMAGE: Pilot study lab photo (Figure 2.11) → /images/pilot_study.jpg -->
-![pilot_study](/images/pilot_study.png)
+<!-- IMAGE: Pilot study lab photo (Figure 2.11) → /images/pilot_study.jpg 
+![pilot_study](/images/pilot_study.png) -->
+<img src="/images/pilot_study" width="50%">
 ---
 
 ## Data Acquisition & Processing
@@ -58,8 +60,10 @@ A **pilot study** (n=6) identified weaknesses in the coherence manipulation — 
 **EEG:** g.Tec HI.amp, 32-electrode 10–20 montage, 256 Hz. Pipeline: band-pass (1–100 Hz) + notch filter → noisy channel rejection + spherical interpolation + average re-reference → Artifact Subspace Reconstruction (burst correction) → AMICA ICA decomposition → ICLabel artifact removal.
 
 <!-- IMAGE: EEG montage diagram (Figure 2.10) → /images/eeg_montage.png -->
-<!-- IMAGE: EEG pre-processing pipeline flowchart (Figure 2.12) → /images/eeg_pipeline.png -->
-![eeg_pipeline](/images/eeg_pipeline.png)
+<!-- IMAGE: EEG pre-processing pipeline flowchart (Figure 2.12) → /images/eeg_pipeline.png 
+![eeg_pipeline](/images/eeg_pipeline.png) -->
+<img src="/images/eeg_pipeline" width="50%">
+
 **ECG:** Biopac MP36, Lead II configuration. Pre-processing: 10th-order Butterworth low-pass (18 Hz) then high-pass (4 Hz) to remove muscle artifacts and baseline drift. Final dataset: 17 usable subjects.
 
 <!-- IMAGE: ECG noise artifact plot — raw, after LP, after HP filter (Figure 2.24) → /images/ecg_artifacts.png -->
