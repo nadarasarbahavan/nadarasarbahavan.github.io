@@ -16,4 +16,4 @@ The work was accepted at a Q1 Journal (Springer Virtual Reality)
 ![Project screenshot](/images/presence.jpg)
 
 **Project report:** [Download PDF](/files/presence.pdf)
-**Journal Paper:** [Download PDF](/files/presence.pdf)
+**Journal Paper:** [Download PDF](https://link.springer.com/article/10.1007/s10055-023-00815-x)
