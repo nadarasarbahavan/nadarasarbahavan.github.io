@@ -8,7 +8,7 @@ date: 2021-02-15
 **Final Year Project** — Department of Electronic & Telecommunication Engineering, University of Moratuwa (February 2021).  
 **Group:** T.T.N. Bahavan, N. Suman, S.A.D.O. Wickramasooriya, K.I. Akalanka · **Supervisors:** Dr. Anjula De Silva; Dr. Roshan Peiris (RIT, USA).  
 **My contributions:** Experiment design, statistical analysis, EEG biosignal analysis, paper writing.  
-**Published** in *Springer Virtual Reality* (Q1). → [Read Paper](https://link.springer.com/article/10.1007/s10055-023-00815-x) · [Project Report](/files/presence.pdf)
+**Published** in *Springer Virtual Reality* (Q1). → [Read Paper](https://link.springer.com/article/10.1007/s10055-023-00815-x) 
 
 ---
 
@@ -17,7 +17,7 @@ date: 2021-02-15
 **Presence** is the mental state in which a VR user reacts to events as if they were real. Traditional measurement methods — questionnaires and behavioural tasks — are intrusive, retrospective, and non-continuous. This project identified *bio-signal correlates* of Presence and its two sub-components, **Place Illusion (PI)** and **Plausibility Illusion (PSI)**, grounded in Slater's Theory of Presence.
 
 <!-- IMAGE: Slater's Theory diagram (Figure 1.1 from report) → /images/slater_theory.png -->
-
+![Slater's Theory of Presence](/images/slater_theory.png)
 Slater's framework defines two controllable system factors: **Immersion** (producing PI — the illusion of *being* somewhere) and **Coherence** (producing PSI — the feeling that events are plausible). Their combination gives rise to Presence.
 
 ---
@@ -27,7 +27,7 @@ Slater's framework defines two controllable system factors: **Immersion** (produ
 A **2×2 factorial within-subjects** design crossed high/low Immersion with high/low Coherence, producing four VR scenarios experienced by each participant in randomised order, with simultaneous EEG and ECG recording.
 
 <!-- IMAGE: 2×2 experiment design tree diagram (Figure 2.1) → /images/experiment_design.png -->
-
+![experiment_design](/images/experiment_design.png)
 **20 subjects** · Ethics approval: ERN/2020/002 · Scenarios built in Unity on Oculus Go with teleportation locomotion (to minimise simulator sickness).
 
 ### Immersion sub-factors controlled
@@ -49,7 +49,7 @@ Questionnaires were administered **inside VR** after each scenario (Unity UI + X
 A **pilot study** (n=6) identified weaknesses in the coherence manipulation — VR characters were ignored, audio was too quiet, voices were robotic — and informed scene redesign before the main experiment.
 
 <!-- IMAGE: Pilot study lab photo (Figure 2.11) → /images/pilot_study.jpg -->
-
+![pilot_study](/images/pilot_study.png)
 ---
 
 ## Data Acquisition & Processing
@@ -58,7 +58,7 @@ A **pilot study** (n=6) identified weaknesses in the coherence manipulation — 
 
 <!-- IMAGE: EEG montage diagram (Figure 2.10) → /images/eeg_montage.png -->
 <!-- IMAGE: EEG pre-processing pipeline flowchart (Figure 2.12) → /images/eeg_pipeline.png -->
-
+![eeg_pipeline](/images/eeg_pipeline.png)
 **ECG:** Biopac MP36, Lead II configuration. Pre-processing: 10th-order Butterworth low-pass (18 Hz) then high-pass (4 Hz) to remove muscle artifacts and baseline drift. Final dataset: 17 usable subjects.
 
 <!-- IMAGE: ECG noise artifact plot — raw, after LP, after HP filter (Figure 2.24) → /images/ecg_artifacts.png -->
@@ -112,4 +112,4 @@ The project confirmed that EEG bio-signals carry statistically significant infor
 
 ---
 
-*Accepted: Springer Virtual Reality (Q1) · Report: [Download PDF](/files/presence.pdf)*
+<!-- *Accepted: Springer Virtual Reality (Q1) · Report: [Download PDF](/files/presence.pdf)* -->
