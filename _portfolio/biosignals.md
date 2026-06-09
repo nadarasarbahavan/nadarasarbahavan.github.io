@@ -52,7 +52,7 @@ A **pilot study** (n=6) identified weaknesses in the coherence manipulation — 
 
 <!-- IMAGE: Pilot study lab photo (Figure 2.11) → /images/pilot_study.jpg 
 ![pilot_study](/images/pilot_study.png) -->
-<img src="/images/pilot_study" width="50%">
+<img src="/images/pilot_study.png" width="50%">
 ---
 
 ## Data Acquisition & Processing
@@ -62,7 +62,7 @@ A **pilot study** (n=6) identified weaknesses in the coherence manipulation — 
 <!-- IMAGE: EEG montage diagram (Figure 2.10) → /images/eeg_montage.png -->
 <!-- IMAGE: EEG pre-processing pipeline flowchart (Figure 2.12) → /images/eeg_pipeline.png 
 ![eeg_pipeline](/images/eeg_pipeline.png) -->
-<img src="/images/eeg_pipeline" width="50%">
+<img src="/images/eeg_pipeline.png" width="50%">
 
 **ECG:** Biopac MP36, Lead II configuration. Pre-processing: 10th-order Butterworth low-pass (18 Hz) then high-pass (4 Hz) to remove muscle artifacts and baseline drift. Final dataset: 17 usable subjects.
 
