@@ -1,6 +1,6 @@
 ---
-title: "Bio-signals for the Objective Measurement of Presence in Virtual Reality"
-excerpt: "Final Year Project: a 2x2 factorial within-subjects VR experiment based on Slater's Theory of Presence, using EEG and ECG to identify bio-signal correlates of Presence, Place Illusion and Plausibility Illusion."
+title: "Bio-signals for the Objective Measurement of Presence in Virtual Reality (Course Final Year Project)"
+excerpt: "a 2x2 factorial within-subjects Virtual Reality experiment based on Slater's Theory of Presence, using EEG and ECG to identify bio-signal correlates of Presence, Place Illusion and Plausibility Illusion."
 collection: portfolio
 date: 2021-02-15
 ---
@@ -11,6 +11,7 @@ A 2x2 factorial within-subjects experiment was designed, controlling two factors
 Final Year Project, Department of Electronic & Telecommunication Engineering, University of Moratuwa. Group work with N. Suman, S.A.D.O Wickramasooriya and K.I Akalanka.
 
 I worked on the statistical analysis, experiment design, paper writing and biosignal analysis.
+The work was accepted at a Q1 Journal (Springer Virtual Reality)
 
 ![Project screenshot](/images/presence.jpg)
 
