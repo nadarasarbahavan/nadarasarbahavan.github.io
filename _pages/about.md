@@ -12,8 +12,7 @@ I am a **PhD Candidate/Graduate Researcher** at the **University of Melbourne**.
 
 ### 🔬 Research Interests
 * **Trustworthy AI:** Open-set recognition, deepfake detection, and model robustness.
-* **Graph Neural Networks (GNNs):** Representation learning on complex relational data.
-* **Video Understanding:** Analyzing temporal dynamics and semantic content in video streams.
+* **Scientific Machine Learning:**Symbolic Regression, Interpretable Machine Learning.
 
 ### 🎓 Education & Background
 * **PhD in Computer Science/AI**, University of Melbourne, Australia. 
