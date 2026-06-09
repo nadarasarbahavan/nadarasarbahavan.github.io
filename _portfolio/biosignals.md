@@ -16,8 +16,9 @@ date: 2021-02-15
 
 **Presence** is the mental state in which a VR user reacts to events as if they were real. Traditional measurement methods — questionnaires and behavioural tasks — are intrusive, retrospective, and non-continuous. This project identified *bio-signal correlates* of Presence and its two sub-components, **Place Illusion (PI)** and **Plausibility Illusion (PSI)**, grounded in Slater's Theory of Presence.
 
-<!-- IMAGE: Slater's Theory diagram (Figure 1.1 from report) → /images/slater_theory.png -->
-![Slater's Theory of Presence](/images/slater_theory.png)
+<!-- IMAGE: Slater's Theory diagram (Figure 1.1 from report) → /images/slater_theory.png 
+![Slater's Theory of Presence](/images/slater_theory.png)-->
+<img src="/images/slater_theory.png" width="50%">
 Slater's framework defines two controllable system factors: **Immersion** (producing PI — the illusion of *being* somewhere) and **Coherence** (producing PSI — the feeling that events are plausible). Their combination gives rise to Presence.
 
 ---
