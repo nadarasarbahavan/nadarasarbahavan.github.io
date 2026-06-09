@@ -18,7 +18,9 @@ date: 2021-02-15
 
 <!-- IMAGE: Slater's Theory diagram (Figure 1.1 from report) → /images/slater_theory.png 
 ![Slater's Theory of Presence](/images/slater_theory.png)-->
+<p align="center">
 <img src="/images/slater_theory.png" width="50%">
+</p> <br>
 Slater's framework defines two controllable system factors: **Immersion** (producing PI — the illusion of *being* somewhere) and **Coherence** (producing PSI — the feeling that events are plausible). Their combination gives rise to Presence.
 
 ---
@@ -29,7 +31,9 @@ A **2×2 factorial within-subjects** design crossed high/low Immersion with high
 
 <!-- IMAGE: 2×2 experiment design tree diagram (Figure 2.1) → /images/experiment_design.png 
 ![experiment_design](/images/experiment_design.png)-->
+<p align="center">
 <img src="/images/experiment_design.png" width="50%">
+</p> <br>
 **20 subjects** · Ethics approval: ERN/2020/002 · Scenarios built in Unity on Oculus Go with teleportation locomotion (to minimise simulator sickness).
 
 ### Immersion sub-factors controlled
@@ -52,7 +56,9 @@ A **pilot study** (n=6) identified weaknesses in the coherence manipulation — 
 
 <!-- IMAGE: Pilot study lab photo (Figure 2.11) → /images/pilot_study.jpg 
 ![pilot_study](/images/pilot_study.png) -->
+<p align="center">
 <img src="/images/pilot_study.png" width="50%">
+</p><br>
 ---
 
 ## Data Acquisition & Processing
@@ -62,8 +68,9 @@ A **pilot study** (n=6) identified weaknesses in the coherence manipulation — 
 <!-- IMAGE: EEG montage diagram (Figure 2.10) → /images/eeg_montage.png -->
 <!-- IMAGE: EEG pre-processing pipeline flowchart (Figure 2.12) → /images/eeg_pipeline.png 
 ![eeg_pipeline](/images/eeg_pipeline.png) -->
+<p align="center">
 <img src="/images/eeg_pipeline.png" width="50%">
-
+</p> <br>
 **ECG:** Biopac MP36, Lead II configuration. Pre-processing: 10th-order Butterworth low-pass (18 Hz) then high-pass (4 Hz) to remove muscle artifacts and baseline drift. Final dataset: 17 usable subjects.
 
 <!-- IMAGE: ECG noise artifact plot — raw, after LP, after HP filter (Figure 2.24) → /images/ecg_artifacts.png -->
