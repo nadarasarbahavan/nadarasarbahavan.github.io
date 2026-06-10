@@ -42,9 +42,9 @@ I am a **PhD Candidate/Graduate Researcher** at the **University of Melbourne**.
 </td>
 <td style="padding:10px; vertical-align:top;">
   <strong><a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Bahavan_SpHOR_A_Representation_Learning_Perspective_on_Open-set_Recognition_for_Identifying_CVPRF_2026_paper.html">SpHOR: A Representation Learning Perspective on Open-Set Recognition for Identifying Unknown Classes in Deep Learning Models</a></strong><br>
-  <strong>Nadarasar Bahavan</strong>, Author 2, Author 3<br>
+  <strong>Nadarasar Bahavan</strong>, Sachith Seneviratne, Saman Halgamuge <br>
   <em>CVPR Findings 2026</em><br>
-  <a href="[YOUR_PAPER_LINK](https://openaccess.thecvf.com/content/CVPR2026F/papers/Bahavan_SpHOR_A_Representation_Learning_Perspective_on_Open-set_Recognition_for_Identifying_CVPRF_2026_paper.pdf)">[paper]</a> / <a href="https://openaccess.thecvf.com/content/CVPR2026F/supplemental/Bahavan_SpHOR_A_Representation_CVPRF_2026_supplemental.pdf">[supplemental]</a> / <a href="https://github.com/nadarasarbahavan/SpHOR">[code]</a><br>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Bahavan_SpHOR_A_Representation_Learning_Perspective_on_Open-set_Recognition_for_Identifying_CVPRF_2026_paper.pdf">[paper]</a> / <a href="https://openaccess.thecvf.com/content/CVPR2026F/supplemental/Bahavan_SpHOR_A_Representation_CVPRF_2026_supplemental.pdf">[supplemental]</a> / <a href="https://github.com/nadarasarbahavan/SpHOR">[code]</a><br>
   <br>
 </td>
 </tr>
@@ -55,7 +55,7 @@ I am a **PhD Candidate/Graduate Researcher** at the **University of Melbourne**.
 </td>
 <td style="padding:10px; vertical-align:top;">
   <strong><a href="https://openaccess.thecvf.com/content/CVPR2026W/PPMisDet/html/Bahavan_Beyond_Deepfake_vs_Real_Facial_Deepfake_Detection_in_the_Open-Set_CVPRW_2026_paper.html">Beyond Deepfake vs Real: Facial Deepfake Detection in the Open-Set Paradigm</a></strong><br>
-  <strong>Nadarasar Bahavan</strong>, Author 2, Author 3<br>
+  <strong>Nadarasar Bahavan</strong>, Sachith Seneviratne, Sanjay Saha, Ken Chen, Sanka Rasnayaka, Saman Halgamuge <br>
   <em>CVPR Workshops 2026</em><br>
   <a href="https://openaccess.thecvf.com/content/CVPR2026W/PPMisDet/papers/Bahavan_Beyond_Deepfake_vs_Real_Facial_Deepfake_Detection_in_the_Open-Set_CVPRW_2026_paper.pdf">[paper]</a> / <a href="https://openaccess.thecvf.com/content/CVPR2026W/PPMisDet/supplemental/Bahavan_Beyond_Deepfake_vs_CVPRW_2026_supplemental.pdf">[supplemental]</a> <br>
   <br>
