@@ -25,12 +25,16 @@ author:
   # Biographic information
   avatar           : "dp.jpg"
   name             : "Nadarasar Bahavan"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD in AI/ML"
-  location         : "Melbourne"
-  employer         : "University of Melbourne"
-  uri              : # URL
-  email            : "ThiruThillaiNadarasar.Bahavan@unimelb.edu.au" 
+  pronouns         : # example: "she/her"
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "nadarasarbahavan"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
 
   # Academic websites
   academia         : # URL
@@ -47,13 +51,6 @@ author:
   zotero           : # URL
 
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "nadarasarbahavan"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
@@ -66,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/nadarasar-bahavan/
+  linkedin         : nadarasar-bahavan
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -82,6 +79,13 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+  
+  bio              : "PhD in AI/ML"
+  location         : "Melbourne"
+  employer         : "University of Melbourne"
+  uri              : # URL
+  email            : "ThiruThillaiNadarasar.Bahavan@unimelb.edu.au" 
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
