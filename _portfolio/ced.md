@@ -2,6 +2,7 @@
 title: "Heated Geopod Propagator with Humidity and Temperature Control (Undergrad Coursework-Product Design)"
 excerpt: "A multi-unit product that reads temperature and humidity inside an outdoor propagator, displays it on an LCD, logs to an SD card hourly, and triggers an alarm when configurable thresholds are exceeded."
 collection: portfolio
+category: "undergraduate"
 date: 2018-12-01
 ---
 A product to read the temperature and humidity inside an outdoor propagator, display them on an LCD screen, and store the data on an SD card on an hourly basis. Based on two separate thresholds, an alarm is triggered when those thresholds are exceeded.
