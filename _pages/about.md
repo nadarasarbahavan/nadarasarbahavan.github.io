@@ -17,11 +17,14 @@ through work on **open-set recognition**, **deepfake detection**, and
 **model calibration**.
 
 I trained as a biomedical engineer with deep roots in **computer 
-architecture, digital systems, and signal processing** — designing 
+architecture, digital systems, and signal processing**, designing 
 processors on FPGAs, building hardware abstractions, processing 
 biosignals, and reasoning about systems from the transistor up. This 
-brought me to the interface between humans and digital systems — a 
-domain where the hardest problems are not technical but *ontological*. 
+brought me to the interface between humans and digital systems, most 
+concretely in my work on **measuring presence in virtual reality using 
+EEG**, where the question was deceptively simple: can a machine tell 
+whether a person believes they are somewhere they are not? A domain 
+where the hardest problems are not technical but *ontological*. 
 Unlike deterministic engineering systems, where correctness is 
 verifiable and failure modes are enumerable, human perception is 
 irreducibly subjective: experiences that are real to the person having 
