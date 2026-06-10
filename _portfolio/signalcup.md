@@ -20,13 +20,13 @@ Autonomous systems must recognise when something has gone wrong in their environ
 
 The core idea was to learn the system's *normal* behaviour in a **self-supervised** manner — without anomaly labels — and then flag deviations from that learned model as anomalies. Because the video and IMU streams were not time-synchronised, each was analysed by a separate, purpose-built pipeline.
 
-# Goal: Detect abnormalities in the behaviour of the ground and aerial systems based on embedded sensor data in real-time.
+Goal: Detect abnormalities in the behaviour of the ground and aerial systems based on embedded sensor data in real-time.
 
-# Eligibility: Any team composed of one faculty member, at most one graduate student and 3-10 undergraduate students is welcomed to join the open competition.
+Eligibility: Any team composed of one faculty member, at most one graduate student and 3-10 undergraduate students is welcomed to join the open competition.
 
-# Dataset: A novel dataset from ground and aerial systems that perform a repetitive task, such as perimeter monitoring, is provided.
+Dataset: A novel dataset from ground and aerial systems that perform a repetitive task, such as perimeter monitoring, is provided.
 
-# Prize: The three teams with highest performance in the open competition will be selected as finalists and will be invited to participate in the final competition at ICASSP 2020. The champion team will receive a grand prize of $5,000. The first and the second runner-up will receive a prize of $2,500 and $1,500, respectively, in addition to travel grants and complimentary conference registrations.
+Prize: The three teams with highest performance in the open competition will be selected as finalists and will be invited to participate in the final competition at ICASSP 2020. The champion team will receive a grand prize of $5,000. The first and the second runner-up will receive a prize of $2,500 and $1,500, respectively, in addition to travel grants and complimentary conference registrations.
 
 
 ---
