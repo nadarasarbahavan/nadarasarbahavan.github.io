@@ -2,7 +2,7 @@
 title: "CHISEL(Scala-based) Workshop for HDL Designs"
 collection: talks
 type: "Talk"
-permalink: /talks/chisell
+permalink: /talks/chisell.md
 venue: "Department of Electronics & Telecommunication, University of Moratuwa"
 date: 2023-10-18
 location: "Moratuwa, Sri Lanka"
