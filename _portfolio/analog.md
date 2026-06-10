@@ -5,7 +5,7 @@ collection: portfolio
 date: 2019-06-01
 ---
 
-![Project screenshot](/images/solder.png)
+![Project screenshot](/images/analogdriver.png)
 
 The task was to create an analog wall follower: a robot capable of moving along a corridor without colliding with the wall on either side, with navigation done by detecting the walls and without using micro-controllers. The robot guides itself along the walls of a 400mm wide corridor and is able to navigate curved bends, with zero user interference. It detects walls on both sides and uses a Proportional-Integral-Differential (PID) control system to handle itself.
 
