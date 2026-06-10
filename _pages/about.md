@@ -10,13 +10,13 @@ redirect_from:
 
 
 I am a **PhD Candidate at the University of Melbourne** working on 
-**Trustworthy AI for Computer Vision**. My research sits at the 
+**Trustworthy AI for Computer Vision** advised by [Prof. Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge). My research sits at the 
 epistemic frontier of deep learning — specifically, how models can be 
 made to reason faithfully about the limits of their own knowledge, 
 through work on **open-set recognition**, **deepfake detection**, and 
 **model calibration**.
 
-I trained as a biomedical engineer with deep roots in **computer 
+I trained as a biomedical engineer (BsC (Hon) in Biomedical Engineering, University of Moratuwa, Sri Lanka) with deep roots in **computer 
 architecture, digital systems, and signal processing**, designing 
 processors on FPGAs, building hardware abstractions, processing 
 biosignals, and reasoning about systems from the transistor up. This 
@@ -38,10 +38,7 @@ means for a system to be *correct by construction*, and I understand
 what it means for ground truth to be *fundamentally contested*. 
 Trustworthy AI sits precisely in the tension between these two regimes.
 
-### 🎓 Education & Background
-* **PhD in Computer Science/AI**, University of Melbourne, Australia. 
-    * Advised by [Prof. Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge).
-* **BsC (Hon) in Biomedical Engineering**, University of Moratuwa, Sri Lanka. 
+
 
 ---
 
