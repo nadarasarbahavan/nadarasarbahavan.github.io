@@ -5,10 +5,14 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
+<h2>Graduate Research</h2>
+{% assign grad = site.portfolio | where: "category", "graduate" | sort: "date" | reverse %}
+{% for post in grad %}
   {% include archive-single.html %}
 {% endfor %}
 
+<h2>Undergraduate Projects</h2>
+{% assign undergrad = site.portfolio | where: "category", "undergraduate" | sort: "date" | reverse %}
+{% for post in undergrad %}
+  {% include archive-single.html %}
+{% endfor %}
