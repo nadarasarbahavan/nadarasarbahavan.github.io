@@ -4,23 +4,19 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-<style>
-  h2 { text-align: center; }
-</style>
-
-<h2>Machine Learning/Data Science</h2>
+<h2 style="text-align: center;">Machine Learning/Data Science</h2>
 {% assign grad = site.portfolio | where: "category", "ml" | sort: "date" | reverse %}
 {% for post in grad %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Digital Systems and Computer Architecture</h2>
+<h2 style="text-align: center;">Digital Systems and Computer Architecture</h2>
 {% assign undergrad = site.portfolio | where: "category", "digital" | sort: "date" | reverse %}
 {% for post in undergrad %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Analog Electronics</h2>
+<h2 style="text-align: center;">Analog Electronics</h2>
 {% assign undergrad = site.portfolio | where: "category", "electronics" | sort: "date" | reverse %}
 {% for post in undergrad %}
   {% include archive-single.html %}
