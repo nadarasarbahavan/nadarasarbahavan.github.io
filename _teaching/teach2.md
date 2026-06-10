@@ -2,7 +2,7 @@
 title: "Artificial Intelligence for Engineers (MCEN90048)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-2
+permalink: /teaching/teach2.md
 venue: "University of Melbourne, Department of Mechanical Engineering"
 location: "Melbourne, Australia"
 ---
