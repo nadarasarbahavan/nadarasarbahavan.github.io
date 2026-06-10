@@ -7,6 +7,8 @@ venue: "Department of Electronics & Telecommunication, University of Moratuwa"
 date: 2023-10-18
 location: "Moratuwa, Sri Lanka"
 ---
+
+
 <!-- <img src="https://github.com/nadarasarbahavan/nadarasarbahavan.github.io/blob/master/images/talk.png" width="400"> -->
 1. Designed and delivered a 5-week introductory workshop on CHISEL and Scala for 30+ undergraduate students.
 2. Introduced Scala fundamentals relevant to hardware design, including classes, objects, collections, and parameterized hardware construction.
