@@ -41,3 +41,17 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ===== MY CUSTOM OVERRIDES ===== */
+:root {
+  --global-link-color: #2a5c8a;
+}
+body {
+  font-family: 'Inter', -apple-system, sans-serif;
+}
+h1, h2, h3, h4, .page__title, .archive__item-title {
+  font-family: 'Lora', Georgia, serif;
+}
+a, a:visited {
+  color: #2a5c8a;
+}
