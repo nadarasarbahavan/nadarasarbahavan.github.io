@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/chisell
 venue: "Department of Electronics & Telecommunication, University of Moratuwa"
-date: 2023-10-18
+date: 2021-8-10
 location: "Moratuwa, Sri Lanka"
 ---
 
