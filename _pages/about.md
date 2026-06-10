@@ -51,7 +51,7 @@ I am a **PhD Candidate/Graduate Researcher** at the **University of Melbourne**.
 
 <tr>
 <td style="width:160px; padding:10px; vertical-align:top;">
-  <img src="/images/deepfake_teaser.png" width="150" style="border-radius:4px;">
+  <img src="/images/deepfakes_teaser.png" width="150" style="border-radius:4px;">
 </td>
 <td style="padding:10px; vertical-align:top;">
   <strong><a href="https://openaccess.thecvf.com/content/CVPR2026W/PPMisDet/html/Bahavan_Beyond_Deepfake_vs_Real_Facial_Deepfake_Detection_in_the_Open-Set_CVPRW_2026_paper.html">Beyond Deepfake vs Real: Facial Deepfake Detection in the Open-Set Paradigm</a></strong><br>
