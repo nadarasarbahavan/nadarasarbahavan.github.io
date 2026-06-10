@@ -2,6 +2,7 @@
 title: "Bio-signals for the Objective Measurement of Presence in Virtual Reality (Final Year Project)"
 excerpt: "A 2×2 factorial within-subjects VR experiment using EEG and ECG to identify bio-signal correlates of Presence, Place Illusion, and Plausibility Illusion."
 collection: portfolio
+category: "undergraduate"
 date: 2021-02-15
 ---
 
