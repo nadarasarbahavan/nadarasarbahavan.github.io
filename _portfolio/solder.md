@@ -2,7 +2,7 @@
 title: "A Safe Power Controlled Soldering Iron"
 excerpt: "A low-cost, power-controlled soldering iron for hobbyists, using a TRIAC and opto-TRIAC AC solid state relay triggered by a UJT-based trigger circuit for accurate power control."
 collection: portfolio
-category: "undergraduate"
+category: "electronics"
 date: 2019-03-01
 ---
 ![Project screenshot](/images/solder.png)
