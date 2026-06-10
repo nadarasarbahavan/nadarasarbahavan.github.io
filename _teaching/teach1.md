@@ -2,7 +2,7 @@
 title: "Numerical Algorithms in Engineering (ENGR30004)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/teach1.md
+permalink: /teaching/teach1
 venue: "University of Melbourne, Department of Mechanical Engineering"
 location: "Melbourne, Australia"
 ---
