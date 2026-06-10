@@ -5,14 +5,20 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<h2>Graduate Research</h2>
-{% assign grad = site.portfolio | where: "category", "graduate" | sort: "date" | reverse %}
+<h2>Machine Learning/Data Science</h2>
+{% assign grad = site.portfolio | where: "category", "ml" | sort: "date" | reverse %}
 {% for post in grad %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Undergraduate Projects</h2>
-{% assign undergrad = site.portfolio | where: "category", "undergraduate" | sort: "date" | reverse %}
+<h2>Digital Systems and Computer Architecture</h2>
+{% assign undergrad = site.portfolio | where: "category", "digital" | sort: "date" | reverse %}
+{% for post in undergrad %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Analog Electronics</h2>
+{% assign undergrad = site.portfolio | where: "category", "electronics" | sort: "date" | reverse %}
 {% for post in undergrad %}
   {% include archive-single.html %}
 {% endfor %}
