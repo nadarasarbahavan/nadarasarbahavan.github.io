@@ -2,7 +2,7 @@
 title: "BEK: FPGA Based Processor for Image Downsampling"
 excerpt: "A custom RISC processor implemented on a DE2-115 FPGA board to down-sample a 256x256 grayscale image to 128x128, using Gaussian pre-filtering to prevent aliasing and JTAG communication to the host PC."
 collection: portfolio
-category: "undergraduate"
+category: "digital"
 date: 2020-01-01
 ---
 
