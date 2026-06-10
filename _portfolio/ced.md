@@ -1,5 +1,5 @@
 ---
-title: "Heated Geopod Propagator with Humidity and Temperature Control (Undergrad Coursework-Product Design)"
+title: "Heated Geopod Propagator with Humidity and Temperature Control"
 excerpt: "A multi-unit product that reads temperature and humidity inside an outdoor propagator, displays it on an LCD, logs to an SD card hourly, and triggers an alarm when configurable thresholds are exceeded."
 collection: portfolio
 category: "undergraduate"
