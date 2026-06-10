@@ -2,7 +2,7 @@
 title: "Trustworthy AI for Computer Vision"
 collection: talks
 type: "Talk"
-permalink: /talks/talk1.md
+permalink: /talks/talk1
 venue: "Department of Statistics & Computer Science, University of Kelaniya"
 date: 2026-01-18
 location: "Kelaniya, Sri Lanka"
