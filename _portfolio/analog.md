@@ -1,7 +1,7 @@
 ---
 title: "Fully Analog Wall-follower"
 excerpt: "An analog wall-following robot that navigates a 400mm corridor and curved bends without any micro-controller, using sensor fusion and a fully analog PID control system driving a PWM motor controller."
-category: "undergraduate"
+category: "electronics"
 collection: portfolio
 date: 2019-06-01
 ---
