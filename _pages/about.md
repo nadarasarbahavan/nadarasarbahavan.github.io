@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Graduate Researcher at the University of Melbourne specializing in Trustworthy AI"
+excerpt: "4th year AI/ML PhD Candidate at the University of Melbourne"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a **PhD Candidate at the University of Melbourne** working on 
+I am a **4th year AI/ML PhD Candidate at the University of Melbourne** working on 
 **Trustworthy AI for Computer Vision** advised by [Prof. Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge). My research sits at the 
 epistemic frontier of deep learning — specifically, how models can be 
 made to function faithfully about the limits of their own knowledge, 
