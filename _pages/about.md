@@ -12,7 +12,7 @@ redirect_from:
 I am a **PhD Candidate at the University of Melbourne** working on 
 **Trustworthy AI for Computer Vision** advised by [Prof. Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge). My research sits at the 
 epistemic frontier of deep learning — specifically, how models can be 
-made to reason faithfully about the limits of their own knowledge, 
+made to function faithfully about the limits of their own knowledge, 
 through work on **open-set recognition**, **deepfake detection**, and 
 **model calibration**.
 
@@ -23,13 +23,7 @@ biosignals, and reasoning about systems from the transistor up. This
 brought me to the interface between humans and digital systems, most 
 concretely in my work on **measuring presence in virtual reality using 
 EEG**, where the question was deceptively simple: can a machine tell 
-whether a person believes they are somewhere they are not? A domain 
-where the hardest problems are not technical but *ontological*. 
-Unlike deterministic engineering systems, where correctness is 
-verifiable and failure modes are enumerable, human perception is 
-irreducibly subjective: experiences that are real to the person having 
-them, yet invisible to any instrument pointed at them from the outside. 
-The ground truth lives inside a mind.
+whether a person believes they are somewhere they are not? 
 
 This trajectory, from deterministic systems, through the irreducible 
 subjectivity of human perception, to the empirical science of deep 
