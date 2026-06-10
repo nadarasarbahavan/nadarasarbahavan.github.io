@@ -8,17 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-I am a **PhD Candidate/Graduate Researcher** at the **University of Melbourne**. My research sits at the intersection of robust machine learning and computer vision, specifically focusing on how we can make AI systems more reliable.
 
-### 🔬 Research Interests
-* **Trustworthy AI:** Open-set recognition, deepfake detection, and model robustness.
-* **Scientific Machine Learning:** Symbolic Regression, Interpretable Machine Learning.
+I am a **PhD Candidate at the University of Melbourne** working on 
+**Trustworthy AI for Computer Vision**. My research sits at the 
+epistemic frontier of deep learning — specifically, how models can be 
+made to reason faithfully about the limits of their own knowledge, 
+through work on **open-set recognition**, **deepfake detection**, and 
+**model calibration**.
+
+I trained as a biomedical engineer with deep roots in **computer 
+architecture, digital systems, and signal processing** — designing 
+processors on FPGAs, building hardware abstractions, processing 
+biosignals, and reasoning about systems from the transistor up. This 
+brought me to the interface between humans and digital systems — a 
+domain where the hardest problems are not technical but *ontological*. 
+Unlike deterministic engineering systems, where correctness is 
+verifiable and failure modes are enumerable, human perception is 
+irreducibly subjective: experiences that are real to the person having 
+them, yet invisible to any instrument pointed at them from the outside. 
+The ground truth lives inside a mind.
+
+This trajectory — from deterministic systems, through the irreducible 
+subjectivity of human perception, to the empirical science of deep 
+learning — gives me an unusual vantage point. I understand what it 
+means for a system to be *correct by construction*, and I understand 
+what it means for ground truth to be *fundamentally contested*. 
+Trustworthy AI sits precisely in the tension between these two regimes.
 
 ### 🎓 Education & Background
 * **PhD in Computer Science/AI**, University of Melbourne, Australia. 
     * Advised by [Prof. Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge).
 * **BsC (Hon) in Biomedical Engineering**, University of Moratuwa, Sri Lanka. 
-* **Leisure:** When I'm not in the lab, you’ll find me weightlifting 🏋️, reading 📚, or catching a movie 🎬.
 
 ---
 
