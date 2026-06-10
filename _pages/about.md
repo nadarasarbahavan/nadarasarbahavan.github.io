@@ -31,9 +31,9 @@ irreducibly subjective: experiences that are real to the person having
 them, yet invisible to any instrument pointed at them from the outside. 
 The ground truth lives inside a mind.
 
-This trajectory — from deterministic systems, through the irreducible 
+This trajectory, from deterministic systems, through the irreducible 
 subjectivity of human perception, to the empirical science of deep 
-learning — gives me an unusual vantage point. I understand what it 
+learning, gives me an unusual vantage point. I understand what it 
 means for a system to be *correct by construction*, and I understand 
 what it means for ground truth to be *fundamentally contested*. 
 Trustworthy AI sits precisely in the tension between these two regimes.
