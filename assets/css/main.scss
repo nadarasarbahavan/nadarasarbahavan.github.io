@@ -41,17 +41,22 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* ===== SITE-WIDE TYPOGRAPHY ===== */
+body,
+p, li, .page__content, .archive__item-excerpt,
+.sidebar, .author__name, .author__bio,
+.masthead, .greedy-nav, blockquote, table, .notice {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
 
-/* ===== MY CUSTOM OVERRIDES ===== */
-:root {
-  --global-link-color: #2a5c8a;
+h1, h2, h3, h4, h5, h6,
+.page__title, .archive__item-title,
+.page__hero-caption, .sidebar h3 {
+  font-family: 'Lora', Georgia, 'Times New Roman', serif;
 }
-body {
-  font-family: 'Inter', -apple-system, sans-serif;
-}
-h1, h2, h3, h4, .page__title, .archive__item-title {
-  font-family: 'Lora', Georgia, serif;
-}
-a, a:visited {
-  color: #2a5c8a;
+
+/* small polish: a touch more weight + spacing on your name */
+.author__name {
+  font-weight: 600;
+  letter-spacing: 0.01em;
 }
