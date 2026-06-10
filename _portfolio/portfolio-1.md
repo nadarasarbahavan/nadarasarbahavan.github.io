@@ -5,6 +5,7 @@ as a neural interface using dry stainless steel electrodes
 and an Adafruit Feather M0 WiFi board (Adafruit Industries,
 USA)."
 collection: portfolio
+category: "undergraduate"
 date: 2020-01-28
 ---
 
