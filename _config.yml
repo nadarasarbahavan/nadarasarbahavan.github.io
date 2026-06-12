@@ -237,7 +237,11 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
