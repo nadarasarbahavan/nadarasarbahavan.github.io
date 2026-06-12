@@ -11,4 +11,7 @@ author_profile: true
   <a href="{{ base_path }}/files/cv.pdf" target="_blank">Download as PDF</a>
 </p>
 
-<embed src="{{ base_path }}/files/cv.pdf" width="100%" height="900px" type="application/pdf" />
+<iframe src="{{ base_path }}/files/cv.pdf" width="100%" height="900px" style="border: 1px solid #e2ddd3; border-radius: 6px;">
+  This browser does not support embedded PDFs.
+  <a href="{{ base_path }}/files/cv.pdf">Download the PDF</a>.
+</iframe>
