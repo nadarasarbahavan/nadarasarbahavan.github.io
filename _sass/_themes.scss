@@ -24,7 +24,7 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
-$times                      : Times, serif;
+$times                      : Times, serif;x
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
@@ -73,6 +73,19 @@ $susy: (
     container: $large,
     global-box-sizing: border-box,
 );
+
+/* ==========================================================================
+   PERSONAL THEME COLORS
+   ========================================================================== */
+$primary-color    : #1a5b7a;  // deep river blue — calm, intelligent, "on the water"
+$accent-color     : #e3963e;  // warm amber — the whimsical, social spark
+$link-color       : $primary-color;
+$link-hover-color : $accent-color;  // playful hover shift
+$background-color : #fbfaf7;  // soft warm off-white, not clinical
+$text-color       : #2a2f33;  // near-black with a hint of slate
+$muted-text-color : #6a7378;  // for captions, dates, fine print
+$border-color     : #e2ddd3;
+
 
 /* ==========================================================================
    BRAND COLORS
