@@ -25,13 +25,7 @@ concretely in my work on **measuring presence in virtual reality using
 EEG**, where the question was deceptively simple: can a machine tell 
 whether a person believes they are somewhere they are not? 
 
-This trajectory, from deterministic systems, through the irreducible 
-subjectivity of human perception, to the empirical science of deep 
-learning, gives me an unusual vantage point. I understand what it 
-means for a system to be *correct by construction*, and I understand 
-what it means for ground truth to be *fundamentally contested*. 
-Trustworthy AI sits precisely in the tension between these two regimes.
-
+That path, from systems that are correct by design to questions where the ground truth is genuinely hard to pin down, is what drew me to trustworthy AI. Modern vision models are powerful and routinely overconfident, and I'm interested in the gap between what they predict and what they actually know. Alongside research, I tutor undergraduate AI and numerical methods in Melbourne's Faculty of Engineering & IT.
 
 
 ---
