@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year Ph.D. candidate in AI/ML (Engineering and IT) at the University of Melbourne, with my thesis submitted and currently under examination, and over six years of experience spanning machine learning, computer vision, and signal processing. I hold a B.Sc. Engineering (Hons) in Biomedical Engineering from the University of Moratuwa, where I graduated with First Class Honours, the Gold Medal in Biomedical Engineering as top student, and the Convocation Award as the most outstanding graduand of the faculty.
-My Ph.D. research, "Trustworthy Machine Learning for Computer Vision: A Representation-centric Perspective," develops methods for open-set recognition, representation learning, network calibration, and deepfake detection — several of which achieve state-of-the-art performance. This work has led to publications at ECCV 2026 and CVPR 2026.
-Beyond ML, I have a strong background in signal processing — leading to a Q1 journal publication and a runner-up finish at the IEEE Signal Processing Cup — and have worked on digital systems and computer architecture design.
-Across these projects I've developed strong analytical, leadership, and communication skills: leading award-winning teams at the IEEE Signal Processing Cup and a national datathon, rowing in a university crew, and founding and serving as first president of the IEEE Signal Processing Society student branch at my university.
-Check me out at nadarasarbahavan.github.io
+I'm a **final-year Ph.D. candidate in AI/ML (Engineering and IT)** at the **University of Melbourne**, with my *thesis submitted and currently under examination*, and over **six years of experience** spanning machine learning, computer vision, and signal processing. I hold a **B.Sc. Engineering (Hons) in Biomedical Engineering** from the **University of Moratuwa**, where I graduated with *First Class Honours*, the **Gold Medal in Biomedical Engineering** as top student, and the **Convocation Award** as the most outstanding graduand of the faculty.
+
+My Ph.D. research, *"Trustworthy Machine Learning for Computer Vision: A Representation-centric Perspective,"* develops methods for **open-set recognition**, **representation learning**, **network calibration**, and **deepfake detection** — several of which achieve *state-of-the-art performance*. This work has led to publications at **ECCV 2026** and **CVPR 2026**.
+
+Beyond ML, I have a strong background in **signal processing** — leading to a *Q1 journal publication* and a *runner-up finish at the IEEE Signal Processing Cup* — and have worked on **digital systems and computer architecture design**.
+
+Across these projects I've developed strong **analytical, leadership, and communication skills**: leading award-winning teams at the *IEEE Signal Processing Cup* and a *national datathon*, rowing in a university crew, and founding and serving as **first president of the IEEE Signal Processing Society student branch** at my university.
+
 
 ---
 
