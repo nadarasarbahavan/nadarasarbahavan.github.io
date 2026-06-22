@@ -32,7 +32,22 @@ Across these projects I've developed strong **analytical, leadership, and commun
 ## Publications
 
 <table style="border:none; border-collapse:collapse; width:100%;">
+<tr>
+<td style="width:160px; padding:10px; vertical-align:top;">
+  <img src="/images/fedlas_teaser.png" width="150" style="border-radius:4px;">
+</td>
+<td style="padding:10px; vertical-align:top;">
+  <strong>FeDLaS: Feature-Modulated Bidirectional Label Smoothing for Neural Network Calibration</strong><br>
+  <strong>Nadarasar Bahavan</strong>, Sachith Seneviratne, Saman Halgamuge <br>
+  <em>ECCV 2026</em><br>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Bahavan_SpHOR_A_Representation_Learning_Perspective_on_Open-set_Recognition_for_Identifying_CVPRF_2026_paper.pdf">[paper]</a> / <a href="https://openaccess.thecvf.com/content/CVPR2026F/supplemental/Bahavan_SpHOR_A_Representation_CVPRF_2026_supplemental.pdf">[supplemental]</a> / <a href="https://github.com/nadarasarbahavan/FEDLAS">[code]</a><br>
+  <br>
+</td>
+</tr>
 
+
+
+  
 <tr>
 <td style="width:160px; padding:10px; vertical-align:top;">
   <img src="/images/sphor_teaser.png" width="150" style="border-radius:4px;">
