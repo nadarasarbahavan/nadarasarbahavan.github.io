@@ -5,7 +5,6 @@ category: "digital"
 date: 2020-01-28
 ---
 
-![Project screenshot](/images/systembus.jpg)
 
 "Group Project. My Contribution: Designing the outer controller for PS Config Regs, Cache Address Controlling and PE(Process element) control "
 
