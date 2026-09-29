@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **final-year Ph.D. candidate in AI/ML (Engineering and IT)** at the **University of Melbourne**, with my *thesis submitted and currently under examination*, and over **six years of experience** spanning machine learning, computer vision, and signal processing. I hold a **B.Sc. Engineering (Hons) in Biomedical Engineering** from the **University of Moratuwa**, where I graduated with *First Class Honours*, the **Gold Medal in Biomedical Engineering** as top student, and the **Convocation Award** as the most outstanding graduand of the faculty.
+I am a Ph.D. graduate in AI/ML (Engineering and IT) from the University of Melbourne, with over five years of experience in machine learning, computer vision, and signal processing. I hold a **B.Sc. Engineering (Hons) in Biomedical Engineering** from the **University of Moratuwa**, where I graduated with *First Class Honours*, the **Gold Medal in Biomedical Engineering** as top student, and the **Convocation Award** as the most outstanding graduand of the faculty.
 
 My Ph.D. research, *"Trustworthy Machine Learning for Computer Vision: A Representation-centric Perspective,"* develops methods for **open-set recognition**, **representation learning**, **network calibration**, and **deepfake detection** several of which achieve *state-of-the-art performance*. This work has led to publications at **ECCV 2026** and **CVPR 2026**.
 
