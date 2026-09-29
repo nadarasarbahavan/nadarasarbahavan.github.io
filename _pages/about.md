@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Final Year AI/ML Ph.D. Candidate at the University of Melbourne"
+excerpt: "AI/ML Ph.D. (University of Melbourne)"
 author_profile: true
 redirect_from: 
   - /about/
